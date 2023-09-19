@@ -5,9 +5,9 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2023-06-20T07:21:10.098Z",
-    "end": "2023-06-20T07:21:10.543Z",
-    "duration": 445
+    "start": "2023-09-19T07:12:40.367Z",
+    "end": "2023-09-19T07:12:40.830Z",
+    "duration": 463
   },
   "tests": [
     {
@@ -27,7 +27,7 @@
     {
       "title": "is declared as equal to Chelsea",
       "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -73,7 +73,7 @@
     {
       "title": "is declared as equal to Chelsea",
       "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
